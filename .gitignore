@@ -1,0 +1,5 @@
+.DS_Store
+**/.build/
+**/.swiftpm/
+*.app/
+streammate_sample.ts
