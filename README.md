@@ -1,5 +1,7 @@
 # StreamMate
 
+<img src="app/StreamMate-icon.png" alt="StreamMate logo" width="144">
+
 A native macOS app for streaming your screen or an individual window, with optional system audio, to a TV through its DLNA media-renderer service.
 
 ## Why I built it
