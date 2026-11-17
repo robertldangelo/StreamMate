@@ -6,7 +6,7 @@ A native macOS app for streaming your screen or an individual window, with optio
 
 ## Why I built it
 
-I built StreamMate while travelling and staying at a hotel where the LG TV offered Miracast as its screen-sharing option. I wanted to get content from my Mac onto the room’s TV.
+I built StreamMate while travelling and staying at a hotel where the LG TV offered Miracast as its only screen-sharing option. I wanted to get content from my Mac onto the room’s TV.
 
 Investigating the TV revealed a reachable DLNA media-renderer service. StreamMate uses that service to ask the TV to play a live video stream served by the Mac.
 
